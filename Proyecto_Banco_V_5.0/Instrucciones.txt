@@ -1,0 +1,13 @@
+Buen Dia lic el proyecto usa la libreria tkcaelendar para la generacion de un componente calendario, para instalarla en su pc debe usar el siguiente comando en consola
+
+$ pip install tkcalendar
+
+Las demas librerias qu utiliza son pandas, numpy
+
+py -m pip install wheel
+
+
+py -m pip install pandas
+
+
+py -m pip install numpy==1.19.3

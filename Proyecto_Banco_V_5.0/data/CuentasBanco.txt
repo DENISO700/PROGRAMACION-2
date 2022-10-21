@@ -1,0 +1,4 @@
+Cuenta,Nombre,Apellido,Ciudad,Estatus,Saldo
+21842,Miguel,Gomez,Mexico DF,Activa,520
+23114,Denis,Sevilla,Tegucigalpa,Activa,744
+22885,denis,sevilla,san luis,Activa,1400

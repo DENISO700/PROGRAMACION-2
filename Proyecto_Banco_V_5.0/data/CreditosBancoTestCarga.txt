@@ -1,0 +1,2 @@
+ID_Credito,Monto,FechaOtorgamiento,FechaVencimiento,TasaIntereses
+

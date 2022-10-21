@@ -1,0 +1,11 @@
+Cuenta,Fecha,Monto,TipoOperacion
+23114,12/01/21,454,deposito
+23114,12/01/21,700,retiro
+23114,12/01/21,45,retiro
+22885,12/03/21,500,deposito
+21842,12/03/21,500,deposito
+22885,12/03/21,100,deposito
+22885,12/03/21,100,deposito
+22885,12/03/21,500,retiro
+22885,12/03/21,100,retiro
+22885,12/03/21,400,deposito
